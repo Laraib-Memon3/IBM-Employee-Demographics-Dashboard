@@ -58,5 +58,5 @@ IBM-Dashboard/
 
 
 ## Screenshots
-![Dashboard Overview](images/dashboard01.png)  
-![Dashboard Details](images/dashboard02.png)
+![Dashboard Overview](Images/dashboard01.png)  
+![Dashboard Details](Images/dashboard02.png)
